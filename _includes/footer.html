@@ -1,7 +1,5 @@
 <footer class="site-footer">
-
   <div class="wrapper">
-
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
@@ -21,23 +19,38 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+        <p>{{ site.address | escape }}</p>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+        <ul class="social-media-list">
+          {% if site.facebook_username %}
+          <li>
+            <a href="https://facebook.com/{{ site.facebook_username }}">
+              <img src="/assets/logo/facebook.png"></img>
+              <span class="username">{{ site.facebook_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.ext_link1 %}
+          <li>
+            <a href="{{ site.ext_link1.url }}">
+              <img src="{{ site.ext_link1.icon }}"></img>
+              <span class="username">{{ site.ext_link1.name }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.ext_link2 %}
+          <li>
+            <a href="{{ site.ext_link2.url }}">
+              <img src="{{ site.ext_link2.icon }}"></img>
+              <span class="username">{{ site.ext_link2.name }}</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
       </div>
     </div>
 

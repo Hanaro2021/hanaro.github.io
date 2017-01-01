@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 하나로에 오신 것을 환영합니다
+title: 하나로에 오신것을 환영합니다
 author: 회장 박범
 email: comdo0426@snu.ac.kr 
 address : > # this means to ignore newlines until "baseurl:"
-  대한민국 서울특별시 관악구 관악로 1           
+  대한민국 서울특별시 관악구 관악로 1 <br/>           
   서울대학교 공과대학 31동 401호
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

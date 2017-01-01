@@ -1,0 +1,16 @@
+<div id="sidebar" data-spy="affix">
+  <div class="sidebar-wrapper">
+    <h3>목록</h3>
+    <ul class="nav sidenav">
+      {% for post in site.posts %}
+        {% if post.subject and page.subject and post.subject == page.subject %}
+          {% if post.title %}
+            <li>
+              <a href="#{{post.title}}">{{post.title}}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
