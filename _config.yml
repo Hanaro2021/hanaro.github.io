@@ -38,9 +38,8 @@ facebook_username:  SNURThanaro
 ext_link1:
   url: http://rpl.snu.ac.kr/
   name: 서울대학교 로켓추진연구실
-  icon: /assets/logo/googleplus.png
-
+  icon: https://github.com/hsb6350/hanaro.github.io/blob/master/assets/logo/googleplus.png?raw=true
 ext_link2:
   url: http://sprc.snu.ac.kr/
   name: 서울대학교 차세대우주추진연구센터
-  icon: /assets/logo/sprc.png
+  icon: https://github.com/hsb6350/hanaro.github.io/blob/master/assets/logo/sprc.PNG?raw=true
