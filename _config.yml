@@ -33,8 +33,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   
-facebook_username:  SNURThanaro
-
+ext_link0:
+  url: https://www.facebook.com/SNURThanaro/
+  name: SNURThanaro
+  icon: https://github.com/hsb6350/hanaro.github.io/blob/master/assets/logo/facebook.png?raw=true
 ext_link1:
   url: http://rpl.snu.ac.kr/
   name: 서울대학교 로켓추진연구실
