@@ -24,15 +24,6 @@
 
       <div class="footer-col footer-col-3">
         <ul class="social-media-list">
-          {% if site.facebook_username %}
-          <li>
-            <a href="https://facebook.com/{{ site.facebook_username }}">
-              <img src="/assets/logo/facebook.png"></img>
-              <span class="username">{{ site.facebook_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-
           {% if site.ext_link1 %}
           <li>
             <a href="{{ site.ext_link1.url }}">
@@ -47,6 +38,13 @@
             <a href="{{ site.ext_link2.url }}">
               <img src="{{ site.ext_link2.icon }}"></img>
               <span class="username">{{ site.ext_link2.name }}</span>
+            </a>
+          </li>
+          {% if site.ext_link3 %}
+          <li>
+            <a href="{{ site.ext_link3.url }}">
+              <img src="{{ site.ext_link3.icon }}"></img>
+              <span clss="username">{{ site.ext_link3.name }}</span>
             </a>
           </li>
           {% endif %}
