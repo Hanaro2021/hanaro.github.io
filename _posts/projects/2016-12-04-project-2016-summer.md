@@ -1,7 +1,7 @@
 ---
 layout: post
 subject: project
-title: 2016 겨울학기
+title: 2016W
 date: 2016-12-29
 ---
 겨울학기 프로젝트를 이끌 팀장들을 선발하였습니다.<br/>
