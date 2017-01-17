@@ -1,7 +1,7 @@
 ---
 layout: post
 subject: project
-title: 2016S
+title: 2016S 연소시험
 date: 2016-07-08
 ---
 추력 테스트
