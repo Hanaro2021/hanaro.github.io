@@ -1,7 +1,7 @@
 ---
 layout: post
 subject: project
-title: 2016 여름학기
+title: 2016S
 date: 2016-07-08
 ---
 추력 테스트
