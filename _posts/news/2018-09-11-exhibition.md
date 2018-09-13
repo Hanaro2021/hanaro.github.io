@@ -2,7 +2,6 @@
 title: 제 33회 항공우주전
 layout: post
 subject: news
-date: 2018-09-11
 ---
 <img src="https://github.com/hsb6350/hanaro.github.io/blob/master/assets/AeroEx.png?raw=true" width="598" height="838"/>
 <br/><br/>
