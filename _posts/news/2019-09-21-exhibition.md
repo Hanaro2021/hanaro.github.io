@@ -10,4 +10,4 @@ date: 2019-09-21
 
 <img src="https://github.com/InhaeSong/hanaro.github.io/blob/master/assets/2019exhibition.jpg?raw=true" width="300" height="400"/><br/>
 
-<img src="https://github.com/InhaeSong/hanaro.github.io/blob/master/assets/2019exhibition2.JPG?raw=true" width="300" height="400"/><br/>
+<img src="https://github.com/InhaeSong/hanaro.github.io/blob/master/assets/2019exhibition2.JPG?raw=true" width="300" height="200"/><br/>
