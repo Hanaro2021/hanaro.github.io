@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 하나로에 오신 것을 환영합니다
-author: 회장 서성일
-email: seongilseo77@naver.com
+author: 회장 조용현
+email: yhcho311@snu.ac.kr
 address : > # this means to ignore newlines until "baseurl:"
   대한민국 서울특별시 관악구 관악로 1           
   서울대학교 공과대학 31동 401호
@@ -35,15 +35,20 @@ exclude:
   
 ext_link1:
   url: https://www.facebook.com/SNURThanaro/
-  name: SNURThanaro
+  name: SNURT Hanaro Facebook
   icon: https://github.com/hsb6350/hanaro.github.io/blob/master/assets/logo/facebook.png?raw=true
   
 ext_link2:
+  url: https://www.youtube.com/channel/UC5VlNtDRndWDzLMPAi3VHJA
+  name: SNURT HanaroTube
+  icon: https://github.com/Hanaro2021/hanaro.github.io/blob/master/assets/logo/YouTube-icon-full_color.png?raw=true
+  
+ext_link3:
   url: http://rpl.snu.ac.kr/
   name: 서울대학교 로켓추진연구실
   icon: https://github.com/hsb6350/hanaro.github.io/blob/master/assets/logo/googleplus.png?raw=true
 
-ext_link3:
+ext_link4:
   url: http://sprc.snu.ac.kr/
   name: 서울대학교 차세대우주추진연구센터
   icon: https://github.com/hsb6350/hanaro.github.io/blob/master/assets/logo/sprc.PNG?raw=true
