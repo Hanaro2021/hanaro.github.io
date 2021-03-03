@@ -2,7 +2,7 @@
 layout: post
 subject: gallery
 title: 2021 YTN 사이언스 인터뷰 (브라보 K사이언티스트 윤영빈 교수편)
-date: 2020-02-10
+date: 2020-03-03
 ---
 2021 YTN 사이언스 인터뷰 브라보 K사이언티스트 윤영빈 교수편<br/>
 <iframe width="560" height="315" src="https://youtu.be/PNWu-peXkBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
