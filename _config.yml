@@ -1,0 +1,49 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: 하나로에 오신 것을 환영합니다
+author: 회장 조용현
+email: yhcho311@snu.ac.kr
+address : > # this means to ignore newlines until "baseurl:"
+  대한민국 서울특별시 관악구 관악로 1           
+  서울대학교 공과대학 31동 401호
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+include: ["_pages"]
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
+ext_link1:
+  url: https://www.facebook.com/SNURThanaro/
+  name: SNURT Hanaro Facebook
+  icon: https://github.com/hsb6350/hanaro.github.io/blob/master/assets/logo/facebook.png?raw=true
+  
+ext_link2:
+  url: http://rpl.snu.ac.kr/
+  name: 서울대학교 로켓추진연구실
+  icon: https://github.com/hsb6350/hanaro.github.io/blob/master/assets/logo/googleplus.png?raw=true
+
+ext_link3:
+  url: http://sprc.snu.ac.kr/
+  name: 서울대학교 차세대우주추진연구센터
+  icon: https://github.com/hsb6350/hanaro.github.io/blob/master/assets/logo/sprc.PNG?raw=true
