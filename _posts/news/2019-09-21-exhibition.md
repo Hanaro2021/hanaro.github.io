@@ -1,7 +1,7 @@
 ---
 title: 제 34회 항공우주전
 layout: post
-subject: news
+subject: history
 date: 2019-09-21
 ---
 2019년 9월 19일과 20일, 서울대학교 301동 1층 복도에서 제 34회 항공우주전이 열렸습니다.<br/>
