@@ -1,7 +1,7 @@
 ---
 title: 서울대학교 우주시스템 협동과정 오픈캠퍼스 데이
 layout: post
-subject: news
+subject: history
 date: 2018-04-21
 ---
 <img src="https://github.com/hsb6350/hanaro.github.io/blob/master/assets/acts/open0.jpg?raw=true" width="370" height="540"/>
