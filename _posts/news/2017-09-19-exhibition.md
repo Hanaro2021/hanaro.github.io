@@ -1,7 +1,7 @@
 ---
 title: 제 32회 항공우주전
 layout: post
-subject: news
+subject: history
 date: 2017-09-19
 ---
 <img src="https://github.com/hsb6350/hanaro.github.io/blob/master/assets/acts/exhibition2017.jpg?raw=true" width="598" height="838"/>
