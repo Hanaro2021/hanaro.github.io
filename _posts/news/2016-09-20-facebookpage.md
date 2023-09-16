@@ -1,7 +1,7 @@
 ---
 title: 동아리 FACEBOOK 페이지 개설
 layout: post
-subject: news
+subject: history
 date: 2016-09-20
 ---
 하나로의 FACEBOOK 페이지가 개설되었습니다. <br/>
