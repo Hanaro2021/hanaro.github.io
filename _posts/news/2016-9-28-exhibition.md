@@ -1,7 +1,7 @@
 ---
 title: 제 31회 항공우주전
 layout: post
-subject: news
+subject: history
 date: 2016-09-28
 ---
 <img src="https://github.com/hsb6350/hanaro.github.io/blob/master/assets/acts/exhibition2016.jpg?raw=true" width="598" height="838"/>
